@@ -1,9 +1,6 @@
 # demokeysigndesk
 Welcome to the `Toba-Digital-Inovasi/demokeysigndesk` GitHub repository. This repository is dedicated to hosting binary downloads for the demokeysigndesk software.
 
-![](https://img.shields.io/github/v/release/Toba-Digital-Inovasi/demokeysigndesk)
-
-
 ## Download Link
 
 | Operating System | Instalation Link                                      |
