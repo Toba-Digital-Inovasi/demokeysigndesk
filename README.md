@@ -21,4 +21,4 @@ Welcome to the `Toba-Digital-Inovasi/demokeysigndesk` GitHub repository. This re
 
 ## Support
 
-For [guides](https://github.com/Toba-Digital-Inovasi/demokeysigndesk/wiki), [questions and discussions](https://github.com/Toba-Digital-Inovasi/demokeysigndesk/issues), please this github repository.
+For [guides](https://github.com/Toba-Digital-Inovasi/demokeysigndesk/wiki), [questions and discussions](https://github.com/Toba-Digital-Inovasi/demokeysigndesk/issues), please use this github repository.
